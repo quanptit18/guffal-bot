@@ -77,13 +77,9 @@ To set up GuffalBot on your Discord server, follow these steps:
    git clone https://github.com/yourusername/GuffalBot.git
    cd GuffalBot
 2. **Install Dependencies:**
-   ```bash
    npm install
 3. **Configure Environment Variables:**
-   ```bash
   DISCORD_TOKEN=your_discord_bot_token
   ARCIUM_API_KEY=your_arcium_api_key
-
 4. **Run the Bot:**
-   ```bash
   npm start
